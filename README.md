@@ -17,3 +17,10 @@ https://drive.google.com/drive/folders/18v_bk22XbJTBT7F0CsA5Wn7COY8gwDRu?usp=sha
 6. Open the main.ipynb file
 7. In 2nd cell of the main.ipynb file change the path of the video_capture variable 15 number line. 
 8. run 1st cell then run 2nd cell 
+
+
+## How to Improve accuracy 
+1. Choose the large model of YOLOv11 like YOLO11m, YOLO11l, YOLO11x instead of YOLO11s
+2. Finetune the model with more and more data
+3. Increase the amount of data.
+   
